@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- Title for Latin keyboard  -->
+    <string name="ime_name">Testing Keyboard</string>
+
+    <!-- Labels for subtype -->
+    <string name="label_subtype_generic">%s</string>
+</resources>
