@@ -19,7 +19,7 @@ Tap the keyboard to show the keyboard switcher
 
 ### Screenshot
 
-![Compose window](http://gitlab.hootsuitemedia.com/Johnathan.Harms/testingkeyboard/raw/master/screenshot.png)
+![Compose window](screenshot.png)
 
 ### Author
 
